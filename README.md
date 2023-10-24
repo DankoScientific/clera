@@ -9,6 +9,8 @@ I accidentally type clera instead of clear all the time. This script clears the 
 
 To install:
 
-$ sudo chmod +x clera
+```
+sudo chmod +x clera
 
-$ sudo mv clera /usr/local/bin/
+sudo mv clera /usr/local/bin/
+```
