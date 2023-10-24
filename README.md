@@ -11,6 +11,7 @@ To install:
 
 ```
 sudo chmod +x clera
-
+```
+```
 sudo mv clera /usr/local/bin/
 ```
