@@ -12,4 +12,5 @@ h makes everything human readable
 To install:
 
 $ sudo chmod +x clera
+
 $ sudo mv clera /usr/local/bin/
