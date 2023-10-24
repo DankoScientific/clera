@@ -1,2 +1,2 @@
 #!/bin/bash
-clear && ls -Sshc
+clear && ls -Ssh
